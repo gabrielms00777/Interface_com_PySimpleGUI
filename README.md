@@ -1,2 +1,2 @@
 # Interface_com_PySimpleGUI
- Interface grafica com o PySimpleGUI
+ Interface simples com o PySimpleGUI
